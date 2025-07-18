@@ -1,5 +1,12 @@
 # @medusajs/promotion
 
+## 2.8.8
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @medusajs/framework@2.8.8
+
 ## 2.8.7
 
 ### Patch Changes

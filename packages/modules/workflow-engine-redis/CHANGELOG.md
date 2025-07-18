@@ -1,5 +1,14 @@
 # @medusajs/workflow-engine-redis
 
+## 2.8.8
+
+### Patch Changes
+
+- [#12976](https://github.com/medusajs/medusa/pull/12976) [`eb83954f23077c0714125b6f2f19fd0ef0f288f9`](https://github.com/medusajs/medusa/commit/eb83954f23077c0714125b6f2f19fd0ef0f288f9) Thanks [@adrien2p](https://github.com/adrien2p)! - chore(workflow-engine-\*): Align event subscribers management
+
+- Updated dependencies []:
+  - @medusajs/framework@2.8.8
+
 ## 2.8.7
 
 ### Patch Changes

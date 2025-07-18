@@ -1,5 +1,15 @@
 # Change Log
 
+## 2.8.8
+
+### Patch Changes
+
+- [#12903](https://github.com/medusajs/medusa/pull/12903) [`c5d609d09cb29c6cf01d1c6c65305cc566f391c5`](https://github.com/medusajs/medusa/commit/c5d609d09cb29c6cf01d1c6c65305cc566f391c5) Thanks [@adrien2p](https://github.com/adrien2p)! - fix(orchestration): Prevent workf. cancellation to execute while rescheduling
+
+- Updated dependencies []:
+  - @medusajs/framework@2.8.8
+  - @medusajs/medusa@2.8.8
+
 ## 2.8.7
 
 ### Patch Changes
