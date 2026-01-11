@@ -1,5 +1,65 @@
 # Change Log
 
+## 2.12.6
+
+### Patch Changes
+
+- [#14441](https://github.com/medusajs/medusa/pull/14441) [`1ca3516a5cbb059ad79fe483cd8e1d6a7ebca23b`](https://github.com/medusajs/medusa/commit/1ca3516a5cbb059ad79fe483cd8e1d6a7ebca23b) Thanks [@shahednasser](https://github.com/shahednasser)! - feat(deps,framework): add zod as framework dependency
+
+- Updated dependencies [[`6cbbd033e4efdae5ea2a758b507bcc1a0fef26c2`](https://github.com/medusajs/medusa/commit/6cbbd033e4efdae5ea2a758b507bcc1a0fef26c2), [`1ca3516a5cbb059ad79fe483cd8e1d6a7ebca23b`](https://github.com/medusajs/medusa/commit/1ca3516a5cbb059ad79fe483cd8e1d6a7ebca23b)]:
+  - @medusajs/order@2.12.6
+  - @medusajs/core-flows@2.12.6
+  - @medusajs/framework@2.12.6
+  - @medusajs/admin-bundler@2.12.6
+  - @medusajs/analytics@2.12.6
+  - @medusajs/api-key@2.12.6
+  - @medusajs/auth@2.12.6
+  - @medusajs/cache-inmemory@2.12.6
+  - @medusajs/cache-redis@2.12.6
+  - @medusajs/caching@2.12.6
+  - @medusajs/cart@2.12.6
+  - @medusajs/currency@2.12.6
+  - @medusajs/customer@2.12.6
+  - @medusajs/event-bus-local@2.12.6
+  - @medusajs/event-bus-redis@2.12.6
+  - @medusajs/file@2.12.6
+  - @medusajs/fulfillment@2.12.6
+  - @medusajs/index@2.12.6
+  - @medusajs/inventory@2.12.6
+  - @medusajs/link-modules@2.12.6
+  - @medusajs/locking@2.12.6
+  - @medusajs/notification@2.12.6
+  - @medusajs/payment@2.12.6
+  - @medusajs/pricing@2.12.6
+  - @medusajs/product@2.12.6
+  - @medusajs/promotion@2.12.6
+  - @medusajs/analytics-local@2.12.6
+  - @medusajs/analytics-posthog@2.12.6
+  - @medusajs/auth-emailpass@2.12.6
+  - @medusajs/auth-github@2.12.6
+  - @medusajs/auth-google@2.12.6
+  - @medusajs/caching-redis@2.12.6
+  - @medusajs/file-local@2.12.6
+  - @medusajs/file-s3@2.12.6
+  - @medusajs/fulfillment-manual@2.12.6
+  - @medusajs/locking-postgres@2.12.6
+  - @medusajs/locking-redis@2.12.6
+  - @medusajs/notification-local@2.12.6
+  - @medusajs/notification-sendgrid@2.12.6
+  - @medusajs/payment-stripe@2.12.6
+  - @medusajs/region@2.12.6
+  - @medusajs/sales-channel@2.12.6
+  - @medusajs/settings@2.12.6
+  - @medusajs/stock-location@2.12.6
+  - @medusajs/store@2.12.6
+  - @medusajs/tax@2.12.6
+  - @medusajs/translation@2.12.6
+  - @medusajs/user@2.12.6
+  - @medusajs/workflow-engine-inmemory@2.12.6
+  - @medusajs/workflow-engine-redis@2.12.6
+  - @medusajs/draft-order@2.12.6
+  - @medusajs/telemetry@2.12.6
+
 ## 2.12.5
 
 ### Patch Changes
